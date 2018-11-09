@@ -1,6 +1,6 @@
 # Java-GoF-Creational-Design-Patterns
 # Creational patterns:
-  Deal with initializing and configuring classes and objects.
+    Deal with initializing and configuring classes and objects.
 # Class:
   # Factory Method:
     Define an interface for creating an object, but let subclasses decide which class to instantiate.  
