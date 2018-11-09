@@ -1,4 +1,6 @@
 # Java-GoF-Creational-Design-Patterns
+# GoF Design Patterns:
+    Emphasis on flexibility and reuse through decoupling of classes.
 # Creational patterns:
     Deal with initializing and configuring classes and objects.
 # Class:
